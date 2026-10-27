@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-changedetection.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://changedetection.io/
+changedetection.io provides a simple, open‑source web‑page change detection service that monitors websites for visual or content changes and sends alerts via email, Slack, or other channels. Users can configure monitoring intervals, custom selectors, and receive notifications when a page updates, making it useful for tracking price changes, content updates, or compliance monitoring. The platform offers a web UI and API for integration, supporting multiple sites and flexible alerting options.
+
+**Areas:** Company · Monitoring · Webhooks · Alerts · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://changedetection.io/)
+- [Documentation](https://changedetection.io/docs/api_v1/index.html)
+- [API reference](https://changedetection.io/docs/api_v1/index.html)
+- [Pricing](https://changedetection.io/#about)
+- [Support](https://changedetection.io/#support)
+- [Terms of service](https://changedetection.io/terms-of-service.txt)
+- [Privacy policy](https://changedetection.io/privacy-statement.html)
+- [GitHub](https://github.com/dgtlmoon/changedetection.io)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/changedetection-io/](https://apis.io/providers/changedetection-io/).
